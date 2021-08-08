@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "980da8f4eda8644d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cddf73306c855b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "纳税人.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1665cafc334e4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8da4269d7e26ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed68d2989099869",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b727f80e23a5709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78c5cf9426840b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fe80a03632cc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d228ba0859b6900a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "纳税人.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2cddf73306c855b9",
+  "lastOpenFiles": [
+    "纳税人.md",
+    "试用期.md",
+    "增值税.md",
+    "学习内容.md",
+    "30天.md",
+    "小规模纳税人.md",
+    "台班单价.md",
+    "设备折旧.md",
+    "建筑工程安装费.md",
+    "管理.md"
+  ]
+}
