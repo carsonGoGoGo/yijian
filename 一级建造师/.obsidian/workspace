@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020年法规真题总结.md",
-            "mode": "source"
+            "file": "外观专利.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020年法规真题总结.md",
+                "file": "外观专利.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2cddf73306c855b9",
   "lastOpenFiles": [
+    "外观专利.md",
     "2020年法规真题总结.md",
+    "10年.md",
+    "Untitled.md",
+    "小规模纳税人.md",
+    "地役权.md",
     "2021-08-09.md",
     "2016年法规真题总结.md",
     "60天.md",
-    "Untitled.md",
-    "纳税人.md",
-    "试用期.md",
-    "增值税.md",
-    "学习内容.md",
-    "30天.md"
+    "纳税人.md"
   ]
 }
