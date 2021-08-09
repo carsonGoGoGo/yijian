@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "纳税人.md",
+            "file": "2016年法规真题总结.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "纳税人.md",
+                "file": "2016年法规真题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "2cddf73306c855b9",
   "lastOpenFiles": [
+    "Untitled.md",
     "纳税人.md",
     "试用期.md",
     "增值税.md",
@@ -96,7 +97,6 @@
     "小规模纳税人.md",
     "台班单价.md",
     "设备折旧.md",
-    "建筑工程安装费.md",
-    "管理.md"
+    "建筑工程安装费.md"
   ]
 }
