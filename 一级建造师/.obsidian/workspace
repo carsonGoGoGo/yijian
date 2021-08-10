@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "35511a303c3453da",
+        "id": "c7d212f970c3c5a0",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "成本的过程控制方法.png"
+            "file": "总进度目标论证.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成本的过程控制方法.png",
+                "file": "总进度目标论证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35511a303c3453da",
+  "active": "c7d212f970c3c5a0",
   "lastOpenFiles": [
-    "成本的过程控制方法.png",
     "Untitled 1.md",
-    "保修年限.md",
-    "2020年管理真题总结.md",
-    "管理职能分工表.md",
-    "2020年法规真题总结.md",
-    "网络计划图.md",
-    "安全交底.md",
-    "2017年管理真题.md",
-    "2021-08-10.md"
+    "成本的过程控制方法.png",
+    "48小时.md",
+    "隐蔽工程验收.md",
+    "临时设施占地.md",
+    "90%.md",
+    "40%.md",
+    "1月.md",
+    "24小时.md",
+    "保修年限.md"
   ]
 }
