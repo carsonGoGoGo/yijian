@@ -7,11 +7,8 @@
         "id": "b5fb5de2495b3895",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "质量控制体系.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "项目经理",
+                "query": "dot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "质量控制体系.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +93,15 @@
   },
   "active": "b5fb5de2495b3895",
   "lastOpenFiles": [
-    "Untitled 7.md",
-    "信息技术.md",
-    "换项目经理.md",
+    "2017年管理真题总结.md",
+    "2021-08-10.md",
+    "60天.md",
+    "50%.md",
+    "48小时.md",
+    "隐蔽工程验收.md",
+    "40%.md",
+    "30%.md",
     "28天.md",
-    "14天.md",
-    "项目经理.md",
-    "核心机制.md",
-    "反馈机制.md",
-    "约束机制.md",
-    "持续改进机制.md"
+    "14天.md"
   ]
 }
