@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "索赔.md",
+            "file": "安全.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索赔.md",
+                "file": "安全.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +108,11 @@
   },
   "active": "17b690a702a56bb6",
   "lastOpenFiles": [
-    "索赔.md",
-    "DAB.md",
-    "安全交底.md",
-    "50%.md",
     "安全.md",
+    "索赔.md",
+    "安全交底.md",
+    "DAB.md",
+    "50%.md",
     "Untitled 6.md",
     "2018年管理真题总结.md",
     "FIDIC.md",
