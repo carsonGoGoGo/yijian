@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae52892231e2f279",
+        "id": "22f1fc5dbd096c79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2018年管理真题总结.md",
+            "file": "1年.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018年管理真题总结.md",
+                "file": "1年.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae52892231e2f279",
+  "active": "22f1fc5dbd096c79",
   "lastOpenFiles": [
-    "2018年管理真题总结.md",
-    "赢得值法.md",
-    "Untitled 6.md",
-    "单代号网络图.md",
-    "防火门窗.md",
-    "安全交底.md",
-    "索赔.md",
-    "DAB.md",
-    "50%.md",
-    "安全.md"
+    "1年.md",
+    "缺陷责任期.md",
+    "建筑企业资质.md",
+    "5年.md",
+    "保温工程.md",
+    "3年.md",
+    "60天.md",
+    "工伤认定.md",
+    "行政复议.md",
+    "2018年管理真题总结.md"
   ]
 }
