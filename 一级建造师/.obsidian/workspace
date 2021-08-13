@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "17b690a702a56bb6",
+        "id": "b5fb5de2495b3895",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "特种工.md",
+            "file": "质量控制体系.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ae52892231e2f279",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "安全交底.md",
-            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "项目经理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "特种工.md",
+                "file": "质量控制体系.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17b690a702a56bb6",
+  "active": "b5fb5de2495b3895",
   "lastOpenFiles": [
-    "特种工.md",
-    "价值工程.md",
-    "单代号.md",
-    "单代号网络图.md",
-    "双代号网络图.md",
-    "防火门窗.md",
-    "安全.md",
-    "索赔.md",
-    "安全交底.md",
-    "DAB.md"
+    "Untitled 7.md",
+    "信息技术.md",
+    "换项目经理.md",
+    "28天.md",
+    "14天.md",
+    "项目经理.md",
+    "核心机制.md",
+    "反馈机制.md",
+    "约束机制.md",
+    "持续改进机制.md"
   ]
 }
