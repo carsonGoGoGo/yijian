@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db8e9e15cee6d725",
+        "id": "dfaf9c87441253e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "盈余公积金.md",
+            "file": "法规考试/2016年法规真题总结.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "76927f9fc4b356f0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基准收益率",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "盈余公积金.md",
+                "file": "法规考试/2016年法规真题总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db8e9e15cee6d725",
+  "active": "dfaf9c87441253e2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "经济笔记/Untitled.md",
-    "经济笔记/偿债能力.md",
-    "经济笔记/偿债备付率.md",
-    "经济笔记/借款偿还期.md",
-    "经济笔记/利息备付率.md",
-    "经济笔记/基准收益率.md",
-    "经济笔记/沉默成本.md",
-    "利息备付率.md",
-    "借款偿还期.md"
+    "法规考试/2016年法规真题总结.md",
+    "行政强制.md",
+    "法规考试/劳务派遣.md",
+    "key.md",
+    "劳务派遣.md",
+    "安全生产许可证变更.md",
+    "按日连续处罚.md",
+    "盈余公积金.md",
+    "安全生产许可证申请.md",
+    "Untitled.md"
   ]
 }
