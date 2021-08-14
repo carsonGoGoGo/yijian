@@ -7,8 +7,11 @@
         "id": "db8e9e15cee6d725",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "key.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "赢得值法",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "key.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
   },
   "active": "db8e9e15cee6d725",
   "lastOpenFiles": [
+    "key.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 3.md",
@@ -101,7 +107,6 @@
     "Untitled 5.md",
     "Untitled 6.md",
     "经济考点/Untitled.md",
-    "6个月.md",
-    "特种工.md"
+    "6个月.md"
   ]
 }
