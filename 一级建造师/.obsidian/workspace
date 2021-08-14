@@ -7,12 +7,88 @@
         "id": "e5458b4615bb9d28",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "empty",
+          "state": {}
+        },
+        "group": "4f36dee5dba68b57"
+      },
+      {
+        "id": "f2073f5ba5eb5595",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
           "state": {
-            "file": "数字/1年.md",
-            "mode": "source"
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701138
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14725458
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 11657298
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431378
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431473
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5419488
+                  }
+                }
+              ],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
           }
-        }
+        },
+        "group": "4f36dee5dba68b57"
       }
     ],
     "direction": "vertical"
@@ -68,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字/1年.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +172,15 @@
   },
   "active": "e5458b4615bb9d28",
   "lastOpenFiles": [
-    "数字/1年.md",
-    "数字/24小时.md",
-    "数字/20年.md",
-    "数字/20%.md",
-    "数字/20%-25%.md",
-    "数字/18米.md",
-    "数字/15天.md",
-    "数字/15年.md",
-    "数字/14天.md",
-    "数字/12月.md"
+    "六个月.md",
+    "纳税人.md",
+    "内部评审.md",
+    "偏差分析.md",
+    "企业职工伤事故分类.md",
+    "评审.md",
+    "企业所得税.md",
+    "排水.md",
+    "监测布置点.md",
+    "持续改进机制.md"
   ]
 }
