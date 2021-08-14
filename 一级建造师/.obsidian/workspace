@@ -9,17 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "key.md",
+            "file": "2021-08-14.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "76927f9fc4b356f0",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -47,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key.md",
+                "file": "2021-08-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +97,15 @@
   },
   "active": "dfaf9c87441253e2",
   "lastOpenFiles": [
-    "key.md",
+    "2021-08-14.md",
+    "收集箱/Untitled.md",
+    "法规/表见代理.md",
+    "法规/行政强制.md",
+    "表见代理.md",
     "法规考试/2016年法规真题总结.md",
+    "key.md",
     "行政强制.md",
     "法规考试/劳务派遣.md",
-    "劳务派遣.md",
-    "安全生产许可证变更.md",
-    "按日连续处罚.md",
-    "盈余公积金.md",
-    "安全生产许可证申请.md",
-    "Untitled.md"
+    "劳务派遣.md"
   ]
 }
