@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dfaf9c87441253e2",
+        "id": "e5458b4615bb9d28",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-14.md",
+            "file": "消防验收.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "行政复议",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-14.md",
+                "file": "消防验收.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfaf9c87441253e2",
+  "active": "e5458b4615bb9d28",
   "lastOpenFiles": [
-    "2021-08-14.md",
-    "收集箱/Untitled.md",
-    "法规/表见代理.md",
-    "法规/行政强制.md",
-    "表见代理.md",
+    "Untitled.md",
+    "建设工程竣工规划验收.md",
+    "数字/3个月.md",
+    "数字/6个月.md",
+    "行政复议.md",
+    "5天.md",
+    "数字/5年.md",
+    "地方标准.md",
     "法规考试/2016年法规真题总结.md",
-    "key.md",
-    "行政强制.md",
-    "法规考试/劳务派遣.md",
-    "劳务派遣.md"
+    "安全生产许可证变更.md"
   ]
 }
