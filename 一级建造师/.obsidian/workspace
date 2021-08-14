@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "980da8f4eda8644d",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8e9e15cee6d725",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1665cafc334e4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8da4269d7e26ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed68d2989099869",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b727f80e23a5709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "赢得值法",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78c5cf9426840b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fe80a03632cc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d228ba0859b6900a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05ca890ced3d17d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db8e9e15cee6d725",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Untitled 6.md",
+    "经济考点/Untitled.md",
+    "6个月.md",
+    "特种工.md"
+  ]
+}
