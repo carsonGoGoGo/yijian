@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "key.md",
+            "file": "数字/5天.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key.md",
+                "file": "数字/5天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "e5458b4615bb9d28",
   "lastOpenFiles": [
+    "5天.md",
     "key.md",
     "纳税人.md",
     "DAB.md",
@@ -105,7 +106,6 @@
     "项目收尾.md",
     "经济笔记/沉默成本.md",
     "管理考试/2020年管理真题总结.md",
-    "换项目经理.md",
-    "法规考试/2017年法规真题总结.md"
+    "换项目经理.md"
   ]
 }
