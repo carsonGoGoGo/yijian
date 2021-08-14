@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "key.md",
+            "file": "盈余公积金.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "基准收益率",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key.md",
+                "file": "盈余公积金.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "db8e9e15cee6d725",
   "lastOpenFiles": [
-    "key.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 4.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "经济考点/Untitled.md",
-    "6个月.md"
+    "经济笔记/Untitled.md",
+    "经济笔记/偿债能力.md",
+    "经济笔记/偿债备付率.md",
+    "经济笔记/借款偿还期.md",
+    "经济笔记/利息备付率.md",
+    "经济笔记/基准收益率.md",
+    "经济笔记/沉默成本.md",
+    "利息备付率.md",
+    "借款偿还期.md"
   ]
 }
