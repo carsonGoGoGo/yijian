@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "消防验收.md",
+            "file": "数字/1年.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "消防验收.md",
+                "file": "数字/1年.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "e5458b4615bb9d28",
   "lastOpenFiles": [
+    "数字/1年.md",
+    "法规/Untitled.md",
     "Untitled.md",
     "建设工程竣工规划验收.md",
     "数字/3个月.md",
@@ -104,8 +106,6 @@
     "行政复议.md",
     "5天.md",
     "数字/5年.md",
-    "地方标准.md",
-    "法规考试/2016年法规真题总结.md",
-    "安全生产许可证变更.md"
+    "地方标准.md"
   ]
 }
