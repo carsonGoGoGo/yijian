@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数字/1年.md",
+            "file": "key.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行政复议",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字/1年.md",
+                "file": "key.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
   },
   "active": "e5458b4615bb9d28",
   "lastOpenFiles": [
+    "key.md",
     "数字/1年.md",
     "法规/Untitled.md",
     "Untitled.md",
@@ -105,7 +107,6 @@
     "数字/6个月.md",
     "行政复议.md",
     "5天.md",
-    "数字/5年.md",
-    "地方标准.md"
+    "数字/5年.md"
   ]
 }
