@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "经济笔记/设备寿命.md",
+            "file": "经济笔记/设备租赁.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "经济笔记/设备寿命.md",
+            "file": "经济笔记/设备租赁.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经济笔记/设备寿命.md",
+                "file": "经济笔记/设备租赁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "a72e99dfb3dca3f1",
   "lastOpenFiles": [
+    "经济笔记/Untitled.md",
+    "key.md",
     "经济笔记/设备寿命.md",
     "经济笔记/沉默成本.md",
     "经济笔记/基准收益率.md",
     "经济笔记/偿债能力.md",
-    "经济笔记/Untitled.md",
     "2021-08-09.md",
     "管理考试/2017年管理真题总结.md",
     "管理考试/2018年管理真题总结.md",
-    "六个月.md",
-    "纳税人.md"
+    "六个月.md"
   ]
 }
