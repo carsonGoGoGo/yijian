@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfaf9c87441253e2",
+        "id": "4feedcda19d11339",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-08-14.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +91,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfaf9c87441253e2",
+  "active": "4feedcda19d11339",
   "lastOpenFiles": [
+    "key.md",
     "2021-08-14.md",
     "收集箱/Untitled.md",
     "法规/表见代理.md",
     "法规/行政强制.md",
     "表见代理.md",
     "法规考试/2016年法规真题总结.md",
-    "key.md",
     "行政强制.md",
     "法规考试/劳务派遣.md",
     "劳务派遣.md"
