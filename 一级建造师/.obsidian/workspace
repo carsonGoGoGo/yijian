@@ -4,22 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e5458b4615bb9d28",
+        "id": "a72e99dfb3dca3f1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "4f36dee5dba68b57"
+          "type": "markdown",
+          "state": {
+            "file": "经济笔记/设备寿命.md",
+            "mode": "source"
+          }
+        }
       },
       {
-        "id": "f2073f5ba5eb5595",
+        "id": "2135895d4d400f09",
         "type": "leaf",
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "经济笔记/设备寿命.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -28,51 +31,8 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 14701138
-                  }
-                },
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 14725458
-                  }
-                },
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 11657298
-                  }
-                },
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 5431378
-                  }
-                },
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 5431473
-                  }
-                },
-                {
-                  "query": "",
-                  "color": {
-                    "a": 1,
-                    "rgb": 5419488
-                  }
-                }
-              ],
+              "collapse-color-groups": true,
+              "colorGroups": [],
               "collapse-display": true,
               "showArrow": false,
               "textFadeMultiplier": 0,
@@ -83,12 +43,11 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.0000000000000004,
               "close": true
             }
           }
-        },
-        "group": "4f36dee5dba68b57"
+        }
       }
     ],
     "direction": "vertical"
@@ -144,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "经济笔记/设备寿命.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5458b4615bb9d28",
+  "active": "a72e99dfb3dca3f1",
   "lastOpenFiles": [
+    "经济笔记/设备寿命.md",
+    "经济笔记/沉默成本.md",
+    "经济笔记/基准收益率.md",
+    "经济笔记/偿债能力.md",
+    "经济笔记/Untitled.md",
+    "2021-08-09.md",
+    "管理考试/2017年管理真题总结.md",
+    "管理考试/2018年管理真题总结.md",
     "六个月.md",
-    "纳税人.md",
-    "内部评审.md",
-    "偏差分析.md",
-    "企业职工伤事故分类.md",
-    "评审.md",
-    "企业所得税.md",
-    "排水.md",
-    "监测布置点.md",
-    "持续改进机制.md"
+    "纳税人.md"
   ]
 }
