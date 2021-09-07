@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "980da8f4eda8644d",
+    "id": "d0aefab4bd6ae531",
     "type": "split",
     "children": [
       {
-        "id": "655eeb4dccd4a7e1",
+        "id": "058045350392e007",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "数字/5天.md",
-=======
-            "file": "安全生产许可证申请.md",
->>>>>>> ac4367585b9985fcc6c57ac29b6f306df73d3163
+            "file": "15日.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1665cafc334e4c1",
+    "id": "3c42d570bf8828ed",
     "type": "split",
     "children": [
       {
-        "id": "0f8da4269d7e26ef",
+        "id": "83cf981d1a714c56",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed68d2989099869",
+            "id": "ea481bc2ea8700a6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +34,7 @@
             }
           },
           {
-            "id": "5b727f80e23a5709",
+            "id": "4fea351b88936062",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,25 +55,29 @@
     "width": 300
   },
   "right": {
-    "id": "78c5cf9426840b64",
+    "id": "b27d396a7aa2b416",
     "type": "split",
     "children": [
       {
-        "id": "46fe80a03632cc8d",
+        "id": "5f61a65ebcdf0aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "d228ba0859b6900a",
+            "id": "607781c37dd441f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d2fc52233e1f18b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "数字/5天.md",
-=======
-                "file": "安全生产许可证申请.md",
->>>>>>> ac4367585b9985fcc6c57ac29b6f306df73d3163
-                "collapseAll": true,
+                "file": "15日.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -86,47 +86,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "05ca890ced3d17d5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "655eeb4dccd4a7e1",
+  "active": "058045350392e007",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "数字/5天.md",
-    "2021-08-09.md",
-    "安装工程一切险.md",
-    "安全文明施工费.md",
-    "安全生产许可证申请.md",
-    "安全生产许可证变更.md",
-    "实物考点/化学元素对钢的影响.md",
-    "实物考点/Untitled.md",
-    "防火门窗.md",
-    "法规考试/2017年法规真题总结.md"
-=======
-    "安全生产许可证申请.md",
-    "安全生产许可证变更.md",
-    "数字/10天.md",
-    "安全生产费.md",
-    "安全交底.md",
-    "安全.md",
     "15日.md",
     "15天.md",
+    "2021-08-10.md",
     "2021-08-14.md",
-    "2021-08-11.md"
->>>>>>> ac4367585b9985fcc6c57ac29b6f306df73d3163
+    "2021-08-11.md",
+    "安全.md",
+    "单代号网络图.md",
+    "单代号.md",
+    "持续改进机制.md",
+    "城市维护建设税.md"
   ]
 }
