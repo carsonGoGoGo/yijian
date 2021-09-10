@@ -1,12 +1,13 @@
 {
   "main": {
-    "id": "980da8f4eda8644d",
+    "id": "c79a63aa213cc092",
     "type": "split",
     "children": [
       {
-        "id": "c3417c8cc820cbbe",
+        "id": "127302982e76687d",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "管理笔记/建设项目人力资源管理计划.md",
@@ -23,21 +24,25 @@
             "file": "质量保证金.md",
             "mode": "source"
           }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f1665cafc334e4c1",
+    "id": "3eb206b6faef7dbb",
     "type": "split",
     "children": [
       {
-        "id": "0f8da4269d7e26ef",
+        "id": "fb024eb041bedd57",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed68d2989099869",
+            "id": "2fc7f26b12215003",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +50,7 @@
             }
           },
           {
-            "id": "5b727f80e23a5709",
+            "id": "736a2782b215a55b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,21 +71,33 @@
     "width": 300
   },
   "right": {
-    "id": "78c5cf9426840b64",
+    "id": "cb0d74f823ad131a",
     "type": "split",
     "children": [
       {
-        "id": "46fe80a03632cc8d",
+        "id": "50fd3a7dbf52bf30",
         "type": "tabs",
         "children": [
           {
-            "id": "d228ba0859b6900a",
+            "id": "69be418b35e013d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7c0ab2585ead387",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "管理笔记/建设项目人力资源管理计划.md",
                 "collapseAll": true,
+=======
+                "collapseAll": false,
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -89,23 +106,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "05ca890ced3d17d5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "c3417c8cc820cbbe",
   "lastOpenFiles": [
     "管理笔记/未命名.md",
@@ -119,4 +128,8 @@
     "数字/5年.md",
     "履约保证金.md"
   ]
+=======
+  "active": "127302982e76687d",
+  "lastOpenFiles": []
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
 }
