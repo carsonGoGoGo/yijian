@@ -7,11 +7,35 @@
         "id": "127302982e76687d",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "15天.md",
             "mode": "source"
           }
+=======
+<<<<<<< HEAD
+          "type": "markdown",
+          "state": {
+            "file": "管理笔记/建设项目人力资源管理计划.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2f5248e214b83080",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "质量保证金.md",
+            "mode": "source"
+          }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
+>>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
         }
       }
     ],
@@ -76,8 +100,16 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "15天.md",
+=======
+<<<<<<< HEAD
+                "file": "管理笔记/建设项目人力资源管理计划.md",
+                "collapseAll": true,
+=======
+>>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
                 "collapseAll": false,
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -94,7 +126,23 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+  "active": "c3417c8cc820cbbe",
+  "lastOpenFiles": [
+    "管理笔记/未命名.md",
+    "实物考点/未命名.md",
+    "临时/未命名.md",
+    "实物考点/墙体孔洞.md",
+    "实物考点/防水混凝土.md",
+    "质量保证金.md",
+    "数字/14天.md",
+    "数字/10%.md",
+    "数字/5年.md",
+    "履约保证金.md"
+  ]
+=======
   "active": "127302982e76687d",
+<<<<<<< HEAD
   "lastOpenFiles": [
     "15天.md",
     "2021-08-09.md",
@@ -103,4 +151,8 @@
     "2021-08-11.md",
     "2021-09-08.md"
   ]
+=======
+  "lastOpenFiles": []
+>>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
+>>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
 }
