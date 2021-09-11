@@ -1,56 +1,32 @@
 {
   "main": {
-    "id": "c79a63aa213cc092",
+    "id": "a81e9a68fa317434",
     "type": "split",
     "children": [
       {
-        "id": "127302982e76687d",
-        "type": "leaf",
-        "state": {
-<<<<<<< HEAD
-          "type": "markdown",
-          "state": {
-            "file": "15天.md",
-            "mode": "source"
-          }
-=======
-<<<<<<< HEAD
-          "type": "markdown",
-          "state": {
-            "file": "管理笔记/建设项目人力资源管理计划.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2f5248e214b83080",
+        "id": "e2dd219102b526a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "质量保证金.md",
+            "file": "一级造价师/test.md",
             "mode": "source"
           }
-=======
-          "type": "empty",
-          "state": {}
->>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
->>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3eb206b6faef7dbb",
+    "id": "2d4945af3ad422c1",
     "type": "split",
     "children": [
       {
-        "id": "fb024eb041bedd57",
+        "id": "500a5257c92d6778",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc7f26b12215003",
+            "id": "7ce753e1a2b2790f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +34,7 @@
             }
           },
           {
-            "id": "736a2782b215a55b",
+            "id": "aee79f08903f123f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "cb0d74f823ad131a",
+    "id": "c5163068d04db8ea",
     "type": "split",
     "children": [
       {
-        "id": "50fd3a7dbf52bf30",
+        "id": "23adc656cd974786",
         "type": "tabs",
         "children": [
           {
-            "id": "69be418b35e013d4",
+            "id": "3f4aba00daca5b64",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -95,21 +71,13 @@
             }
           },
           {
-            "id": "f7c0ab2585ead387",
+            "id": "c9791955ca1b10f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "15天.md",
-=======
-<<<<<<< HEAD
-                "file": "管理笔记/建设项目人力资源管理计划.md",
-                "collapseAll": true,
-=======
->>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
+                "file": "一级造价师/test.md",
                 "collapseAll": false,
->>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -126,33 +94,8 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "c3417c8cc820cbbe",
+  "active": "e2dd219102b526a8",
   "lastOpenFiles": [
-    "管理笔记/未命名.md",
-    "实物考点/未命名.md",
-    "临时/未命名.md",
-    "实物考点/墙体孔洞.md",
-    "实物考点/防水混凝土.md",
-    "质量保证金.md",
-    "数字/14天.md",
-    "数字/10%.md",
-    "数字/5年.md",
-    "履约保证金.md"
+    "一级造价师/Untitled.md"
   ]
-=======
-  "active": "127302982e76687d",
-<<<<<<< HEAD
-  "lastOpenFiles": [
-    "15天.md",
-    "2021-08-09.md",
-    "2021-08-10.md",
-    "2021-08-14.md",
-    "2021-08-11.md",
-    "2021-09-08.md"
-  ]
-=======
-  "lastOpenFiles": []
->>>>>>> e930e746d4ea77954e8e861e25b474408448ddf3
->>>>>>> d3b418347eb1a3b8003e8e1deec2e8ebc0fc9fad
 }
