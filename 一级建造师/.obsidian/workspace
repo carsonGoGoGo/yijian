@@ -7,11 +7,8 @@
         "id": "e2dd219102b526a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "一级造价师/test.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一级造价师/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +92,15 @@
   },
   "active": "e2dd219102b526a8",
   "lastOpenFiles": [
-    "一级造价师/Untitled.md"
+    "一级造价师/技术与计量/Untitled.md",
+    "一级造价师/工程计价/Untitled.md",
+    "一级造价师/案列分析/Untitled.md",
+    "经济笔记/偿债备付率.md",
+    "经济笔记/偿债能力.md",
+    "经济笔记/沉默成本.md",
+    "管理笔记/建设项目人力资源管理计划.md",
+    "法规考试/2017年法规真题总结.md",
+    "法规考试/2016年法规真题总结.md",
+    "法规笔记/劳动争议.md"
   ]
 }
